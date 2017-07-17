@@ -3,8 +3,9 @@
 <div id=main-content>
 	
 	
-    <h1>Hello World</h1>	
-	
+    <h4 >Welcome to my Javascript sandbox</h4>	
+    <p id="demo"></p>
+    
 	
 </div>
 

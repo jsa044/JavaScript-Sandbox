@@ -5,10 +5,11 @@
 <html>
 	
 	<head>
+		<title>JSandbox</title>
 		
 	</head>
 	
-	<body>
+	<body id="bg-color">
 		
 		
 		
