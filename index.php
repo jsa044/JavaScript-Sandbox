@@ -3,7 +3,7 @@
 <div id=main-content>
 	
 	
-    <h4 >Welcome to my Javascript sandbox</h4>	
+    <h4 >This script changes the background in relation to where the mouse is on the screen.</h4>	
     <p id="demo"></p>
     
 	
