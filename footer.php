@@ -1,6 +1,6 @@
 <script type='text/javascript' src="MyFunctions.js"></script>
 
-<?php echo date('Y')  ?>
+<?php echo "Allaire Web Development, LLC"  ?>
 </body>
 	
 </html>
