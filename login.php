@@ -26,7 +26,7 @@ if ($username&&$password) {
 		else {
 			echo "Incorrect password";
 		}		
-	}  //End of inner if statement
+	}  //End of inner if statement at this line.
 	else {
 		die('That user does not exist.');
 	}   //End of else statement
